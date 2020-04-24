@@ -33,7 +33,7 @@ We suggest a duration for each block but take your time. It's better to take lon
 
 ### Content
 
-- [Block 1: Introduction to work methodologies (1 week)](../)
+- [Block 1: Introduction to work methodologies (1 week)](../Content/Block 1/Introduction to work methodologies)
 - [Block 2: Empathize with the user (2/3 weeks)](../)
 - [Block 3: Problem definition (2/3 weeks)](../)
 - [Block 4: Ideation (2 weeks)](../)
