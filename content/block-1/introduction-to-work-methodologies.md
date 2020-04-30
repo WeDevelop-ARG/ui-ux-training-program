@@ -33,4 +33,4 @@ Don't forget to ask any question you have. Also, contact Agos to get in touch wi
 - Getting Work Done, by Harvard Business Review. ISBN-10: 1625275439, ISBN-13: 978-1625275431. This book has really helped me to achieve more things in less time. Self organization is key.
 - Agile Project Management with Kanban, by Eric Brechner. ISBN-13: 978-0735698956, ISBN-10: 0735698953.
 
-[Next block](../block-2/index.md)
+[Next block](../block-2/empathize-with-the-user.md)
