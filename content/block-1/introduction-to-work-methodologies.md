@@ -26,9 +26,9 @@
 ### Wrap-up
 
 Don't forget to ask any question you have. Also, contact Agos to get in touch with team members and learn how we use the things you just learned.
+Also, and after you've read all the content, we can set up a meeting with a project team, so you can learn more about the dynamics and methodologies we use.
 
 ### Bonus
-
 
 - Getting Work Done, by Harvard Business Review. ISBN-10: 1625275439, ISBN-13: 978-1625275431. This book has really helped me to achieve more things in less time. Self organization is key.
 - Agile Project Management with Kanban, by Eric Brechner. ISBN-13: 978-0735698956, ISBN-10: 0735698953.
