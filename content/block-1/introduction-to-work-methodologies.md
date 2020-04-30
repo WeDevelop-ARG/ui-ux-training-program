@@ -4,7 +4,10 @@
 
 ## Contents
 
-- 
+- Most used work methodologies: Agile, Scrum, Kanban.
+- Lean methodology. What is it and why we use it?
+- Design thinking and user-centered design processes.
+
 
 ## Resources
 
