@@ -33,7 +33,9 @@
 - Basic theory: https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular
 - Overview: https://www.interaction-design.org/literature/article/design-thinking-a-quick-overview?
 - How design thinking helps to solve complex challenges: https://youtu.be/UAinLaT42xY
-- Mindsets https://www.designkit.org/mindsets
+- Innovative thinking for new problems: https://www.interaction-design.org/literature/article/design-thinking-new-innovative-thinking-for-new-problems
+- Obstacles to problem solving and innovation: https://www.interaction-design.org/literature/article/obstacles-to-problem-solving-and-innovation-in-design-thinking
+- Mindsets: https://www.designkit.org/mindsets
 
 
 ### But, how do we work?
