@@ -4,15 +4,20 @@
 
 ## Contents
 
-- How to improve a design generating empathy with my target audience
-- Context mapping
+- Generate empathy with my target audience
 - Research
-- User interviews
-- Insights
-- Diary studies
+- Research techniques
 - Process and analyze the information obtained
+- Insights
 
 ## Resources
+
+
+### Empathy
+
+- Getting started with empathy https://www.interaction-design.org/literature/article/design-thinking-getting-started-with-empathy (article)
+
+- Empathy vs sympathy https://www.youtube.com/watch?v=1Evwgu369Jw (video)
 
 ### Research
 
@@ -23,8 +28,6 @@
 - Qualitative vs Cuantitative research https://www.nngroup.com/articles/quant-vs-qual/ (article) https://www.nngroup.com/videos/qualitative-vs-quantitative-research/ (video)
 
 - 5 Qualitative research methods https://www.nngroup.com/videos/5-qualitative-research-methods/ (video)
-
-- Empathy vs sympathy https://www.youtube.com/watch?v=1Evwgu369Jw (video)
 
 - Conduct research for journey mapping https://www.nngroup.com/articles/research-journey-mapping/(article) https://www.nngroup.com/videos/research-journey-mapping/ (video)
 
