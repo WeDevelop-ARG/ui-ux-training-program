@@ -28,6 +28,11 @@
 
 - Conduct research for journey mapping https://www.nngroup.com/articles/research-journey-mapping/(article) https://www.nngroup.com/videos/research-journey-mapping/ (video)
 
+- Tips for rolling a research process https://uxdesign.cc/rolling-research-a-minimalist-ux-research-process-4b3ba61d7fa (article) 
+
+
+### Direct observation
+
 - Direct observation https://uxdesign.cc/direct-observation-what-when-and-how-f09d9f2c315c (article)
 
 
@@ -54,6 +59,10 @@
 
 - Asking the right questions https://uxdesign.cc/focus-groups-asking-the-right-questions-c542ae023a8?source=search_post---------2 (article)
 
+
+### Surveys
+
+- Tips for conducting UX surveys https://uxplanet.org/this-is-all-you-need-to-know-to-conduct-a-ux-survey-50400af45920 (article)
 
 ### Diary studies
 
@@ -86,9 +95,9 @@ Don't forget to ask any question you have. Also, contact Agos to get in touch wi
 
 ### Bonus
 
-These are some books I consider very good ones for you to read. I'm leaving the links I have here, or you can search them on the web.
+These are some books & articles I consider very good ones for you to read. I'm leaving the links I have here, or you can search them on the web.
 
-
+- The emotionl design manifesto https://uxdesign.cc/the-emotional-design-manifesto-7cfdbd2d55e9
 - The art of empathy - Karla McLaren
 - Emotional Design - Donald Norman 
 - Interviewing Users - Rosenfeld https://drive.google.com/open?id=1qJyyG7g3h0Esrb6Tqc8xfFTZhUFJPpbF
