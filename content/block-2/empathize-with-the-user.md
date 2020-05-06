@@ -30,11 +30,11 @@ Don't forget to ask any question you have. Also, contact Agos to get in touch wi
 These are some books I consider very good ones for you to read. I'm leaving the links I have here, or you can search them on the web.
 
 
-The art of empathy - Karla McLaren
-Emotional Design - Donald Norman 
-Interviewing Users - Rosenfeld https://drive.google.com/open?id=1qJyyG7g3h0Esrb6Tqc8xfFTZhUFJPpbF
-Practical design discovery https://drive.google.com/open?id=13NnMk8jfitZGV904e2T7_SGBlPlc6ttG
-Just enough research https://drive.google.com/open?id=1O1ugm_2Z_cW35xRTyTUVe-gw-ziRknZI
-The User Experience team of one https://drive.google.com/open?id=1CAEzAcX8I9fdCotKOOwF3npDmAT97KwS (PDF) https://drive.google.com/open?id=1CAEzAcX8I9fdCotKOOwF3npDmAT97KwS (eBook)
+- The art of empathy - Karla McLaren
+- Emotional Design - Donald Norman 
+- Interviewing Users - Rosenfeld https://drive.google.com/open?id=1qJyyG7g3h0Esrb6Tqc8xfFTZhUFJPpbF
+- Practical design discovery https://drive.google.com/open?id=13NnMk8jfitZGV904e2T7_SGBlPlc6ttG
+- Just enough research https://drive.google.com/open?id=1O1ugm_2Z_cW35xRTyTUVe-gw-ziRknZI
+- The User Experience team of one https://drive.google.com/open?id=1CAEzAcX8I9fdCotKOOwF3npDmAT97KwS (PDF) https://drive.google.com/open?id=1CAEzAcX8I9fdCotKOOwF3npDmAT97KwS (eBook)
 
 [Next block](../block-3/problem-definition.md)
