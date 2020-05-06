@@ -19,6 +19,12 @@
 
 - Empathy vs sympathy https://www.youtube.com/watch?v=1Evwgu369Jw (video)
 
+- How to develop empathy https://www.interaction-design.org/literature/article/how-to-develop-an-empathic-approach-in-design-thinking (article)
+
+- Improve your designs developing empathy https://www.interaction-design.org/literature/article/empathy-how-to-improve-your-designs-by-developing-empathy-for-your-target-group (article)
+
+
+
 ### Research
 
 - Research cheat sheet https://www.nngroup.com/articles/ux-research-cheat-sheet/ (article) https://www.nngroup.com/videos/ux-research-cheat-sheet/ (video)
@@ -32,6 +38,8 @@
 - Conduct research for journey mapping https://www.nngroup.com/articles/research-journey-mapping/(article) https://www.nngroup.com/videos/research-journey-mapping/ (video)
 
 - Tips for rolling a research process https://uxdesign.cc/rolling-research-a-minimalist-ux-research-process-4b3ba61d7fa (article) 
+
+- Question everything: The 5 "whys" https://www.interaction-design.org/literature/article/question-everything (article) 
 
 
 ### Direct observation
