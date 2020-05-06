@@ -24,7 +24,7 @@
 
 - 5 Qualitative research methods https://www.nngroup.com/videos/5-qualitative-research-methods/ (video)
 
-- Empathy vs sympathy https://www.youtube.com/watch?v=1Evwgu369Jw
+- Empathy vs sympathy https://www.youtube.com/watch?v=1Evwgu369Jw (video)
 
 - Conduct research for journey mapping https://www.nngroup.com/articles/research-journey-mapping/(article) https://www.nngroup.com/videos/research-journey-mapping/ (video)
 
@@ -33,9 +33,9 @@
 
 ### User interviews
 
-- Interviewing users https://www.nngroup.com/articles/interviewing-users/
+- Interviewing users https://www.nngroup.com/articles/interviewing-users/ (article)
 
-- How, When, and Why to Conduct Them https://www.nngroup.com/articles/user-interviews/
+- How, When, and Why to Conduct Them https://www.nngroup.com/articles/user-interviews/ (article)
 
 - Open vs Closed questions https://www.nngroup.com/articles/open-ended-questions/ (article) https://www.nngroup.com/videos/open-vs-closed-questions/ (video)
 
@@ -48,18 +48,18 @@
 
 ### Focus groups
 
-- Basic theory https://www.nngroup.com/articles/focus-groups/
+- Basic theory https://www.nngroup.com/articles/focus-groups/ (article)
 
-- Moderating a focus group https://uxdesign.cc/moderating-focus-groups-6-tips-for-beginners-b2bb38fd503
+- Moderating a focus group https://uxdesign.cc/moderating-focus-groups-6-tips-for-beginners-b2bb38fd503 (article)
 
-- Asking the right questions https://uxdesign.cc/focus-groups-asking-the-right-questions-c542ae023a8?source=search_post---------2
+- Asking the right questions https://uxdesign.cc/focus-groups-asking-the-right-questions-c542ae023a8?source=search_post---------2 (article)
 
 
 ### Diary studies
 
-- Basic theory https://www.nngroup.com/articles/diary-studies/
+- Basic theory https://www.nngroup.com/articles/diary-studies/ (article)
 
-- Diary studies: a quick primer https://uxdesign.cc/diary-studies-cd65a61a4f89
+- Diary studies: a quick primer https://uxdesign.cc/diary-studies-cd65a61a4f89 (article)
 
 - Explanatory video https://www.nngroup.com/videos/5-steps-diary-studies/ (video)
 
@@ -75,9 +75,9 @@
 
 ### Insights
 
-- Basic theory: https://medium.com/@eugeniacasabona/de-que-hablamos-cuando-hablamos-de-insights-d3c6a6ca0948
+- Basic theory: https://medium.com/@eugeniacasabona/de-que-hablamos-cuando-hablamos-de-insights-d3c6a6ca0948 (article)
 
-- How to find insights https://uxdesign.cc/how-exactly-do-you-find-insights-from-qualitative-user-research-603bcafbc8b3
+- How to find insights https://uxdesign.cc/how-exactly-do-you-find-insights-from-qualitative-user-research-603bcafbc8b3 (article)
 
 
 ### Wrap-up
