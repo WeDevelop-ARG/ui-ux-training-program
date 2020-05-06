@@ -39,6 +39,12 @@
 
 - Open vs Closed questions https://www.nngroup.com/articles/open-ended-questions/ (article) https://www.nngroup.com/videos/open-vs-closed-questions/ (video)
 
+- Tips for conducting user interviews https://uxdesign.cc/how-to-conduct-user-interviews-fe4b8c34b0b7 (article)
+
+- Stop doing interviews, start having conversations https://uxdesign.cc/stop-doing-user-interviews-start-having-conversations-187dc3328bf (article)
+
+- Conversational tendencies to avoid https://uxdesign.cc/the-conversational-tendencies-to-avoid-in-user-interviews-6ade6f4e2e39 (article)
+
 
 ### Focus groups
 
@@ -63,6 +69,8 @@
 - Cognitive Maps, Mind Maps, and Concept Maps https://www.nngroup.com/articles/cognitive-mind-concept/ (article)
 
 - Visual mapping strategies https://www.nngroup.com/videos/visual-mapping-strategies/ (video)
+
+- 4 methods for analysing results https://uxdesign.cc/4-methods-for-analysing-user-interviews-56e4e096ee25 (article)
 
 
 ### Insights
