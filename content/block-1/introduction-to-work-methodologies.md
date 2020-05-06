@@ -20,6 +20,8 @@
   - Basic theory: https://www.scrum.org/resources/what-is-scrum.
   - Video explantion: https://www.youtube.com/watch?v=9TycLR0TqFA.
   
+  -----------
+  
 ### Kanban
   - Basic theory: https://kanbanize.com/kanban-resources/getting-started/what-is-kanban.
   - Excellent explanation by Eric Brechner: https://www.youtube.com/watch?v=CD0y-aU1sXo.
@@ -28,6 +30,8 @@
   - Basic theory and principles: https://kanbanize.com/lean-management/what-is-lean-management.
   - Excellent video explanation: https://www.youtube.com/watch?v=wfsRAZUnonI.
   - Lean UX: https://www.youtube.com/watch?v=-J9m7XUJcfI&feature=youtu.be.
+  
+  --------
 
 ### Design thinking
 - Basic theory: https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular
@@ -36,6 +40,8 @@
 - Innovative thinking for new problems: https://www.interaction-design.org/literature/article/design-thinking-new-innovative-thinking-for-new-problems
 - Obstacles to problem solving and innovation: https://www.interaction-design.org/literature/article/obstacles-to-problem-solving-and-innovation-in-design-thinking
 - Mindsets: https://www.designkit.org/mindsets
+
+--------
 
 
 ### But, how do we work?
