@@ -9,17 +9,68 @@
 - Research
 - User interviews
 - Insights
+- Diary studies
 - Process and analyze the information obtained
 
 ## Resources
 
-### title
+### Research
 
-- Basic theory:
+- Research cheat sheet https://www.nngroup.com/articles/ux-research-cheat-sheet/ (article) https://www.nngroup.com/videos/ux-research-cheat-sheet/ (video)
 
-Empathy vs sympathy https://www.youtube.com/watch?v=1Evwgu369Jw
+- When to Use Which User-Experience Research Methods https://www.nngroup.com/articles/which-ux-research-methods/(article) https://www.nngroup.com/videos/when-use-which-ux-research-method/ (video)
 
-  
+- Qualitative vs Cuantitative research https://www.nngroup.com/articles/quant-vs-qual/ (article) https://www.nngroup.com/videos/qualitative-vs-quantitative-research/ (video)
+
+- 5 Qualitative research methods https://www.nngroup.com/videos/5-qualitative-research-methods/ (video)
+
+- Empathy vs sympathy https://www.youtube.com/watch?v=1Evwgu369Jw
+
+- Conduct research for journey mapping https://www.nngroup.com/articles/research-journey-mapping/(article) https://www.nngroup.com/videos/research-journey-mapping/ (video)
+
+- Direct observation https://uxdesign.cc/direct-observation-what-when-and-how-f09d9f2c315c (article)
+
+
+### User interviews
+
+- Interviewing users https://www.nngroup.com/articles/interviewing-users/
+
+- How, When, and Why to Conduct Them https://www.nngroup.com/articles/user-interviews/
+
+- Open vs Closed questions https://www.nngroup.com/articles/open-ended-questions/ (article) https://www.nngroup.com/videos/open-vs-closed-questions/ (video)
+
+
+### Focus groups
+
+- Basic theory https://www.nngroup.com/articles/focus-groups/
+
+- Moderating a focus group https://uxdesign.cc/moderating-focus-groups-6-tips-for-beginners-b2bb38fd503
+
+- Asking the right questions https://uxdesign.cc/focus-groups-asking-the-right-questions-c542ae023a8?source=search_post---------2
+
+
+### Diary studies
+
+- Basic theory https://www.nngroup.com/articles/diary-studies/
+
+- Diary studies: a quick primer https://uxdesign.cc/diary-studies-cd65a61a4f89
+
+- Explanatory video https://www.nngroup.com/videos/5-steps-diary-studies/ (video)
+
+
+### Analysis
+
+- Cognitive Maps, Mind Maps, and Concept Maps https://www.nngroup.com/articles/cognitive-mind-concept/ (article)
+
+- Visual mapping strategies https://www.nngroup.com/videos/visual-mapping-strategies/ (video)
+
+
+### Insights
+
+- Basic theory: https://medium.com/@eugeniacasabona/de-que-hablamos-cuando-hablamos-de-insights-d3c6a6ca0948
+
+- How to find insights https://uxdesign.cc/how-exactly-do-you-find-insights-from-qualitative-user-research-603bcafbc8b3
+
 
 ### Wrap-up
 
