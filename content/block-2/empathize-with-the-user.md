@@ -64,6 +64,15 @@
 
 - Tips for conducting UX surveys https://uxplanet.org/this-is-all-you-need-to-know-to-conduct-a-ux-survey-50400af45920 (article)
 
+### Card sorting
+ 
+ - Basic theory https://www.nngroup.com/articles/card-sorting-definition/ (article)
+ 
+ - Open vs Closed card sorting https://www.nngroup.com/videos/open-vs-closed-card-sorting/ (video)
+
+- How to improve usability using card sorting https://uxdesign.cc/using-card-sorting-to-improve-product-usability-6194a2d385ab (article)
+
+
 ### Diary studies
 
 - Basic theory https://www.nngroup.com/articles/diary-studies/ (article)
