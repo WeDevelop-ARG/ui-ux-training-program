@@ -29,7 +29,7 @@
 
 - Research cheat sheet https://www.nngroup.com/articles/ux-research-cheat-sheet/ (article) https://www.nngroup.com/videos/ux-research-cheat-sheet/ (video)
 
-- When to Use Which User-Experience Research Methods https://www.nngroup.com/articles/which-ux-research-methods/(article) https://www.nngroup.com/videos/when-use-which-ux-research-method/ (video)
+- When to Use Which User-Experience Research Methods https://www.nngroup.com/articles/which-ux-research-methods/ (article) https://www.nngroup.com/videos/when-use-which-ux-research-method/ (video)
 
 - Qualitative vs Cuantitative research https://www.nngroup.com/articles/quant-vs-qual/ (article) https://www.nngroup.com/videos/qualitative-vs-quantitative-research/ (video)
 
