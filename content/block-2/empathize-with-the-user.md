@@ -95,11 +95,15 @@
 
 ### Analysis
 
+- Reports https://medium.com/@nicoleconser/designing-a-research-report-your-stakeholders-will-actually-use-7db2237c46e6 (article)
+
+- Tips to organize research outcomes https://uxdesign.cc/synthesis-how-to-make-sense-of-your-design-research-d67ad79b684b (article)
+
+- 4 methods for analysing results https://uxdesign.cc/4-methods-for-analysing-user-interviews-56e4e096ee25 (article)
+
 - Cognitive Maps, Mind Maps, and Concept Maps https://www.nngroup.com/articles/cognitive-mind-concept/ (article)
 
 - Visual mapping strategies https://www.nngroup.com/videos/visual-mapping-strategies/ (video)
-
-- 4 methods for analysing results https://uxdesign.cc/4-methods-for-analysing-user-interviews-56e4e096ee25 (article)
 
 
 ### Insights
