@@ -13,6 +13,10 @@
 
 - Basic theory:
 
+- Cognitive Maps, Mind Maps, and Concept Maps https://www.nngroup.com/articles/cognitive-mind-concept/ (article)
+
+- Visual mapping strategies https://www.nngroup.com/videos/visual-mapping-strategies/ (video)
+
   
 
 ### Wrap-up
