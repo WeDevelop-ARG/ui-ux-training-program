@@ -119,7 +119,7 @@ Don't forget to ask any question you have. Also, contact Agos to get in touch wi
 
 These are some books & articles I consider very good ones for you to read. I'm leaving the links I have here, or you can search them on the web.
 
-- The emotionl design manifesto https://uxdesign.cc/the-emotional-design-manifesto-7cfdbd2d55e9
+- The emotional design manifesto https://uxdesign.cc/the-emotional-design-manifesto-7cfdbd2d55e9
 - The art of empathy - Karla McLaren
 - Emotional Design - Donald Norman 
 - Interviewing Users - Rosenfeld https://drive.google.com/open?id=1qJyyG7g3h0Esrb6Tqc8xfFTZhUFJPpbF
