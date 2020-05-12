@@ -35,7 +35,7 @@
 
 - 5 Qualitative research methods https://www.nngroup.com/videos/5-qualitative-research-methods/ (video)
 
-- Conduct research for journey mapping https://www.nngroup.com/articles/research-journey-mapping/(article) https://www.nngroup.com/videos/research-journey-mapping/ (video)
+- Conduct research for journey mapping https://www.nngroup.com/articles/research-journey-mapping/ (article) https://www.nngroup.com/videos/research-journey-mapping/ (video)
 
 - Tips for rolling a research process https://uxdesign.cc/rolling-research-a-minimalist-ux-research-process-4b3ba61d7fa (article) 
 
