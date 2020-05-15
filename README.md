@@ -34,7 +34,9 @@ We suggest a duration for each block but take your time. It's better to take lon
 ### Content
 
 - [Block 1: Introduction to work methodologies (1 week)](/content/block-1/introduction-to-work-methodologies.md)
-- [Block 2: Empathize with the user (2/3 weeks)](/content/block-2/empathize-with-the-user.md)
-- [Block 3: Problem definition (2/3 weeks)](/content/block-3/problem-definition.md)
-- [Block 4: Ideation (2 weeks)](/content/block-4/ideation.md)
-- [Block 5: Quick prototyping and product evaluation (3/4 weeks)](/content/block-5/prototyping-and-product-evaluation.md)
+- [Block 2: Empathize with the user (2 weeks theory + practice)](/content/block-2/empathize-with-the-user.md)
+- [Block 3: Problem definition (1 week theory + practice)](/content/block-3/problem-definition.md)
+- [Block 4: Ideation (1 week)](/content/block-4/ideation.md)
+- [Block 5: Quick prototyping and product evaluation (1 week)](/content/block-5/prototyping-and-product-evaluation.md)
+
+Iterate, iterate, iterate!
