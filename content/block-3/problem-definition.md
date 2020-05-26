@@ -50,6 +50,10 @@
 
 ### Personas
 
+- Basic theory: https://www.nngroup.com/articles/persona/?lm=persona-scope&pt=article (Article)
+
+- How to Choose the Scope of Your Personas https://www.nngroup.com/articles/persona-scope/ (Article)
+
 
 ### Scenario maps
 
