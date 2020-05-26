@@ -4,8 +4,7 @@
 
 ## Contents
 
-- Problem definition methods
-- Diagrams
+- Methods
 - Mapping techniques
 - Personas
 - Points of view
@@ -13,13 +12,59 @@
 
 ## Resources
 
-### title
+### Methods
 
-- Basic theory:
+- Methods to Help You Define, Synthesise and Make Sense in Your Research https://www.interaction-design.org/literature/article/methods-to-help-you-define-synthesise-and-make-sense-in-your-research (Article)
+
+- UX Mapping Methods Compared: A Cheat Sheet https://www.nngroup.com/articles/ux-mapping-cheat-sheet/ (Article)
+
+- UX Mapping Methods: When to Use Which https://www.nngroup.com/videos/ux-mapping-methods/ (video)
 
 - Cognitive Maps, Mind Maps, and Concept Maps https://www.nngroup.com/articles/cognitive-mind-concept/ (article)
 
 - Visual mapping strategies https://www.nngroup.com/videos/visual-mapping-strategies/ (video)
+
+
+### Empathy Maps
+
+- How to Empathy Map https://www.nngroup.com/videos/empathy-map/ (video)
+
+- Empathy Mapping: The First Step in Design Thinking https://www.nngroup.com/articles/empathy-mapping/ (Article)
+
+
+### Customer journey Maps
+
+- When and How to Create Customer Journey Maps https://www.nngroup.com/articles/customer-journey-mapping/ (Article + video)
+
+- Journey mapping 101 https://www.nngroup.com/articles/journey-mapping-101/ (Article + video)
+
+- Journey Mapping: 2 Decisions to Make Before You Begin https://www.nngroup.com/videos/journey-mapping-decisions/ (video)
+
+- The 5 Steps of Successful Customer Journey Mapping https://www.nngroup.com/articles/customer-journey-mapping-process/ (Article + video)
+
+
+### Experience map
+
+
+### Cognitive maps
+
+- Basic Theory https://www.nngroup.com/articles/cognitive-mapping-user-research/ (Article)
+
+### Personas
+
+
+### Scenario maps
+
+- Scenario mapping for design exploration https://www.nngroup.com/videos/scenario-mapping/ (video)
+
+
+### Service Blueprint
+
+- Service Blueprints: Definition https://www.nngroup.com/articles/service-blueprints-definition/?lm=ux-mapping-cheat-sheet&pt=article (Article + video)
+
+- Service Blueprinting in Practice: Who, When, What https://www.nngroup.com/articles/service-blueprinting-practice/?lm=ux-mapping-cheat-sheet&pt=article (Article)
+
+- The 5 Steps to Service Blueprinting https://www.nngroup.com/articles/5-steps-service-blueprinting/?lm=ux-mapping-cheat-sheet&pt=article (Article)
 
   
 
