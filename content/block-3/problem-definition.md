@@ -4,8 +4,12 @@
 
 ## Contents
 
-- 
--
+- Problem definition methods
+- Diagrams
+- Mapping techniques
+- Personas
+- Points of view
+- How might we?
 
 ## Resources
 
