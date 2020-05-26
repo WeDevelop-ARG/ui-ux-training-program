@@ -6,8 +6,6 @@
 
 - Methods
 - Mapping techniques
-- Personas
-- Points of view
 - How might we?
 
 ## Resources
