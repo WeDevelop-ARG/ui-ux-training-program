@@ -86,7 +86,7 @@
 
 ### Point of view (POV) & How might we
 
--Define and Frame Your Design Challenge by Creating Your Point Of View and Ask “How Might We” https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we (Article)
+- Define and Frame Your Design Challenge by Creating Your Point Of View and Ask “How Might We” https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we (Article)
 
 - How to frame HMW https://www.designkit.org/methods/3 (Short article + video)
 
