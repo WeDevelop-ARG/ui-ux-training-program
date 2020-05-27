@@ -25,9 +25,15 @@
 
 ### Empathy Maps
 
+- Empathy Map – Why and How to Use It https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it (Article)
+
 - How to Empathy Map https://www.nngroup.com/videos/empathy-map/ (video)
 
 - Empathy Mapping: The First Step in Design Thinking https://www.nngroup.com/articles/empathy-mapping/ (Article)
+
+- What is empathy mapping? A simple guide on how to get into your user’s heads. https://uxdesign.cc/what-is-empathy-mapping-4776a7326c36 (Article)
+
+- Quick guide https://uxdesign.cc/empathy-maps-made-easy-a-10-minute-guide-39de29998399 (Article)
 
 
 ### Customer journey Maps
