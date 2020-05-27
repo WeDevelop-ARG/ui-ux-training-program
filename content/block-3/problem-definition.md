@@ -33,7 +33,7 @@
 
 - What is empathy mapping? A simple guide on how to get into your user’s heads. https://uxdesign.cc/what-is-empathy-mapping-4776a7326c36 (Article)
 
-- Quick guide https://uxdesign.cc/empathy-maps-made-easy-a-10-minute-guide-39de29998399 (Article)
+- Another quick guide on how to map your users https://uxdesign.cc/empathy-maps-made-easy-a-10-minute-guide-39de29998399 (Article)
 
 
 ### Customer journey Maps
