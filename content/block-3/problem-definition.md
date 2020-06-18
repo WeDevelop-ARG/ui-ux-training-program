@@ -109,6 +109,7 @@ Don't forget to ask any question you have. Also, contact Agos to get in touch wi
 
 ### Bonus
 
-- 
+- Mental Models - Aligning Design Strategy with Human Behavior https://drive.google.com/file/d/1_oC7U_iV3ha5kT_I4v6yIlK87k1gAkYT/view?usp=sharing
+- 100 Things Every Designer Needs to Know About People https://drive.google.com/file/d/1NftqkIqbl2P-bQxlSlxM9n3kox9eiw8T/view?usp=sharing
 
 [Next block](../block-4/ideation.md)
