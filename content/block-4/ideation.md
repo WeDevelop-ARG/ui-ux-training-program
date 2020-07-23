@@ -61,6 +61,7 @@ Note: You can check more ideation techniques in the IDEO design toolkit: https:/
 
 ### Wrap-up
 
+Ideation is always a collaborative proccess. There are tons of methods we can use to light up our minds and think new ideas and solutions. We can choose any method we want, depending on what we need to do, the problem we're trying to solve and the context we're working on.
 Don't forget to ask any question you have. Also, contact Agos to get in touch with team members and learn how we use the things you just learned.
 
 ### Bonus
