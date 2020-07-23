@@ -39,7 +39,7 @@
 
 - Analogies: https://www.interaction-design.org/literature/article/learn-how-to-use-the-best-ideation-methods-analogies (article)
 
-Note: You can check more ideation techniques in the IDEO design toolkit page: https://www.designkit.org/methods filtering by "ideation".
+Note: You can check more ideation techniques in the IDEO design toolkit: https://www.designkit.org/methods filtering by "ideation".
 
 
 ### Sketching
