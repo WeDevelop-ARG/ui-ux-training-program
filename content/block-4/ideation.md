@@ -14,7 +14,7 @@
 
 ### Ideation basics
 
-- what's the ideation proccess?: https://www.interaction-design.org/literature/article/what-is-ideation-and-how-to-prepare-for-ideation-sessions#:~:text=Ideation%20is%20the%20process%20where,wealth%20of%20other%20ideation%20techniques (article)
+- what's the ideation proccess?: https://www.interaction-design.org/literature/article/what-is-ideation-and-how-to-prepare-for-ideation-sessions (article)
 
 - Elements for fruitful ideation sessions: https://www.interaction-design.org/literature/article/understand-the-elements-and-thinking-modes-that-create-fruitful-ideation-sessions (article)
 
