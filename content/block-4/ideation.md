@@ -7,6 +7,7 @@
 - Ideation basics
 - Most used techniques
 - Sketching
+- Selecting ideas
 
 
 ## Resources
