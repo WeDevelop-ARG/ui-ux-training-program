@@ -50,7 +50,7 @@ Note: You can check more ideation techniques in the IDEO design toolkit: https:/
 
 - Charrettes (Design Sketching): ½ Inspiration, ½ Buy-In: https://www.nngroup.com/articles/design-charrettes/ (article)
 
--Sketching for UX: https://uxdesign.cc/pens-process-product-sketching-for-ux-1b4992c47565 (article)
+- Sketching for UX: https://uxdesign.cc/pens-process-product-sketching-for-ux-1b4992c47565 (article)
 
 
 ### Selecting ideas
