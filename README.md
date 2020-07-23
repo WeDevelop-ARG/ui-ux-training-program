@@ -37,6 +37,6 @@ We suggest a duration for each block but take your time. It's better to take lon
 - [Block 2: Empathize with the user (1 week theory + 2 weeks practice)](/content/block-2/empathize-with-the-user.md)
 - [Block 3: Problem definition (1 week theory + 1 week practice)](/content/block-3/problem-definition.md)
 - [Block 4: Ideation (1 week theory + 2 weeks practice)](/content/block-4/ideation.md)
-- [Block 5: Quick prototyping and product evaluation (1 week theory + 1 week practice)](/content/block-5/prototyping-and-product-evaluation.md)
+- [Block 5: Prototyping and product evaluation (1 week theory + 1 week practice)](/content/block-5/prototyping-and-product-evaluation.md)
 
 Iterate, iterate, iterate!
