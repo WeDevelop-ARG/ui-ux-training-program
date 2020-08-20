@@ -65,6 +65,7 @@ Don't forget to ask any question you have. Also, contact Agos to get in touch wi
 ### Bonus
 
 - Usability testing with minors: https://www.nngroup.com/videos/usability-testing-minors/ (video)
+- More efficient Usability Testing with this template (this is one of the templates I used for some UT sessions): https://uxdesign.cc/how-this-template-made-our-user-testing-sessions-more-efficient-84d3308340c9 (article)
 - Unmoderated User Tests: How and Why to Do Them: https://www.nngroup.com/articles/unmoderated-usability-testing/ (article)
 - Tools for Unmoderated Usability Testing: https://www.nngroup.com/articles/unmoderated-user-testing-tools/ (article)
 
