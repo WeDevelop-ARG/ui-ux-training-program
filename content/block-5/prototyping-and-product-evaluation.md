@@ -6,7 +6,9 @@
 
 - Prototyping. Low fidelity vs high fidelity.
 - Getting started with Figma. Prototyping options.
-- User testing & how to gather feedback.
+- User testing. Remote user testing.
+- Gathering feedback
+- Implementation phase. How to move from prototype to product?
 
 ## Resources
 
@@ -18,13 +20,33 @@
 - Prototype vs wireframes: https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/ (video)
 - Just-Enough Prototypes Make Communicating Specs More Successful: https://www.nngroup.com/videos/just-enough-prototypes/ (video)
 
+
 ### Getting started with Figma
 
 - Explore design features: https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23 (video list)
 - Prototype while you design: https://www.youtube.com/playlist?list=PLXDU_eVOJTx7aqRW3Skp1aRT9ktC3ctqA (video list)
 
 
-### User Testing
+### User Testing basics
+
+- User Testing: Why & How: https://www.nngroup.com/videos/user-testing-jakob-nielsen/ (video)
+- Usability Testing 101: https://www.nngroup.com/articles/usability-testing-101/ (article)
+- 1st Pillar of Usability Testing: Typical Users: https://www.nngroup.com/videos/usability-testing-typical-users/ (video)
+- 2nd Pillar of Usability Testing: Appropriate Tasks: https://www.nngroup.com/videos/usability-testing-appropriate-tasks/ (video)
+- 3rd Pillar of Usability Testing: Skilled Facilitator: https://www.nngroup.com/videos/usability-testing-skilled-facilitator/ (video)
+
+- Usability Testing with 5 Users - Design Process: https://www.nngroup.com/videos/usability-testing-w-5-users-design-process/ (video)
+- Usability Testing with 5 Users: ROI Criteria: https://www.nngroup.com/videos/usability-testing-w-5-users-roi-criteria (video)
+- Usability Testing with 5 Users: Information Foraging: https://www.nngroup.com/videos/usability-testing-5-users-information-foraging/ (video)
+
+
+### Remote User Testing
+- Remote Moderated Usability Tests: How to Do Them: https://www.nngroup.com/articles/moderated-remote-usability-test/ (article)
+- The Case for Remote Moderated Usability Testing: https://www.nngroup.com/videos/remote-moderated-usability-testing/ (video)
+- Remote Usability-Testing Costs: Moderated vs. Unmoderated: https://www.nngroup.com/articles/remote-usability-testing-costs/ (article)
+
+
+### Gathering feedback
 
 - Presenting Low-Fidelity Prototypes to Stakeholders:https://www.nngroup.com/videos/low-fi-prototypes-stakeholders/ (video)
 - Test Your Prototypes: How to Gather Feedback and Maximise Learning: https://www.interaction-design.org/literature/article/test-your-prototypes-how-to-gather-feedback-and-maximise-learning (article)
@@ -36,14 +58,13 @@
 - From Prototype to Product: Ensuring Your Solution is Feasible and Viable: https://www.interaction-design.org/literature/article/from-prototype-to-product-ensuring-your-solution-is-feasible-and-viable (article)
 
 
-
 ### Wrap-up
 
 Don't forget to ask any question you have. Also, contact Agos to get in touch with team members and learn how we use the things you just learned.
 
 ### Bonus
 
-There are other ways of performing user testing: remote and unmoderated. Here's an example:
-
-- Unmoderated Remote Usability Testing (URUT: https://www.interaction-design.org/literature/article/unmoderated-remote-usability-testing-urut-every-step-you-take-we-won-t-be-watching-you (article)
+- Usability testing with minors: https://www.nngroup.com/videos/usability-testing-minors/ (video)
+- Unmoderated User Tests: How and Why to Do Them: https://www.nngroup.com/articles/unmoderated-usability-testing/ (article)
+- Tools for Unmoderated Usability Testing: https://www.nngroup.com/articles/unmoderated-user-testing-tools/ (article)
 
