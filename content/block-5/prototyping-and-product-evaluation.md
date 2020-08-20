@@ -31,7 +31,7 @@
 - How to Get More Honest Feedback in User Testing: https://www.interaction-design.org/literature/article/how-to-get-more-honest-feedback-in-user-testing (article)
 
 
-### Implementation
+### Implementation phase
 
 - From Prototype to Product: Ensuring Your Solution is Feasible and Viable: https://www.interaction-design.org/literature/article/from-prototype-to-product-ensuring-your-solution-is-feasible-and-viable (article)
 
