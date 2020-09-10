@@ -39,6 +39,8 @@ We suggest a duration for each block but take your time. It's better to take lon
 - [Block 3: Problem definition](/content/block-3/problem-definition.md)
 - [Block 4: Ideation](/content/block-4/ideation.md)
 - [Block 5: Prototyping and product evaluation](/content/block-5/prototyping-and-product-evaluation.md)
-- [Block 6: ]
+- [Block 6: Visual Design](/content/block-6/visual-design.md)
+- [Block 7: Communication & UX writing](/content/block-7/communication-ux-writing.md)
+- [Block 8: Components & interaction](/content/block-8/components-interaction.md)
 
-Iterate, iterate, iterate!
+### And remember: Iterate, iterate, iterate!
