@@ -2,7 +2,7 @@
 
 ### Goals
 
-- Learn and put into practice the general concepts of the UX process and design of digital products.
+- Learn and practice the general concepts of the UX process and design of digital products.
 - Learn the Design thinking methodology for user-centered product design.
 - Learn and implement the Lean work methodology, with quick iterations and validations.
 - Encourage interaction and continuous feedback with the product owner and the development team.
@@ -23,6 +23,7 @@ Design a proposal for a rewards app oriented to a workplace, in which:
 This program will be divided into blocks that can last up to 2/3 weeks each.
 
 The first part of each block is theorical, and will either introduce you to new concepts or help you review things that you've probably already learned. Concepts will be introduced in the way of links, books, videos, etc. All we provide is a guide, it's up to you to investigate further.
+
 After finishing the learning part, you'll find a "Wrap-up" section. Use this time to ask any question you may have. Also, we'll connect you with different team members that will tell you how they use whatever you've just learned on a daily basis at working days.
 
 Finally, at the end of each block, you'll find a "Bonus" section. We'll drop down there books, links, and any other information we consider important for you to have. We suggest taking note of that and learn a little more every day (you'll do this from now on if you're smart).
@@ -33,10 +34,11 @@ We suggest a duration for each block but take your time. It's better to take lon
 
 ### Content
 
-- [Block 1: Introduction to work methodologies (1 week)](/content/block-1/introduction-to-work-methodologies.md)
-- [Block 2: Empathize with the user (1 week theory + 2 weeks practice)](/content/block-2/empathize-with-the-user.md)
-- [Block 3: Problem definition (1 week theory + 1 week practice)](/content/block-3/problem-definition.md)
-- [Block 4: Ideation (1 week theory + 2 weeks practice)](/content/block-4/ideation.md)
-- [Block 5: Prototyping and product evaluation (1 week theory + 1 week practice)](/content/block-5/prototyping-and-product-evaluation.md)
+- [Block 1: Introduction to work methodologies](/content/block-1/introduction-to-work-methodologies.md)
+- [Block 2: Empathize with the user](/content/block-2/empathize-with-the-user.md)
+- [Block 3: Problem definition](/content/block-3/problem-definition.md)
+- [Block 4: Ideation](/content/block-4/ideation.md)
+- [Block 5: Prototyping and product evaluation](/content/block-5/prototyping-and-product-evaluation.md)
+- [Block 6: ]
 
 Iterate, iterate, iterate!
