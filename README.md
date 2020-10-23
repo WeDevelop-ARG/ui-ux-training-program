@@ -8,7 +8,7 @@
 - Encourage interaction and continuous feedback with the product owner and the development team.
 - Approach to a daily basis of remote work.
 
-### What we'll be working on :thinking_face:
+### What we'll be working on :smile:
 
 Carry out an end-to-end UX / UI process, covering the initial stage of research and validation of ideas, definition, creation and validation of flows, up to the interface design of a digital product.
 
