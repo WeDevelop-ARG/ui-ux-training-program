@@ -34,6 +34,7 @@ We suggest a duration for each block but take your time. It's better to take lon
 
 ### Content
 
+- [Block 0: Useful Links](/content/block-0/iuseful-links.md)
 - [Block 1: Introduction to work methodologies](/content/block-1/introduction-to-work-methodologies.md)
 - [Block 2: Empathize with the user](/content/block-2/empathize-with-the-user.md)
 - [Block 3: Problem definition](/content/block-3/problem-definition.md)
