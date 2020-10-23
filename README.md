@@ -1,6 +1,6 @@
 # UX Training program by WeDevelop :rocket:
 
-### Goals :sparkles:
+### Goals :checkered_flag:
 
 - Learn and practice the general concepts of the UX process and design of digital products.
 - Learn the Design thinking methodology for user-centered product design.
@@ -8,7 +8,7 @@
 - Encourage interaction and continuous feedback with the product owner and the development team.
 - Approach to a daily basis of remote work.
 
-### What we'll be working on :sparkles:
+### What we'll be working on :thinking_face:
 
 Carry out an end-to-end UX / UI process, covering the initial stage of research and validation of ideas, definition, creation and validation of flows, up to the interface design of a digital product.
 
@@ -16,7 +16,7 @@ Carry out an end-to-end UX / UI process, covering the initial stage of research 
 
 TBD
 
-### How to use this program :sparkles:
+### How to use this program :mega:
 
 This program will be divided into blocks that can last up to 2/3 weeks each.
 
@@ -30,7 +30,7 @@ The second part of each block is practical, so you'll have to apply the learned 
 
 We suggest a duration for each block but take your time. It's better to take longer and really learn and apply the concepts rather than moving on with vague ideas about section's topics.
 
-### Content :sparkles:
+### Content :books:
 
 - [Block 0: Useful Links](/content/block-0/useful-links.md)
 - [Block 1: Introduction to work methodologies](/content/block-1/introduction-to-work-methodologies.md)
