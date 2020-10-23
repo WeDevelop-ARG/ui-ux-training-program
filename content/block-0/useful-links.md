@@ -12,7 +12,7 @@ We use the G suite in order to manage our daily work and our videocalls. Google 
 We use slack to communicate everyday. You're going to be invited to the Wedevelop's official slack channel. We manage a closed channel for the Training Program, but feel free to talk with any other company member or join any public channel we may have.
 
 - **Figma:**
-We use Figma to manage all our design projects. This means: projects, invitations, collaborative design sessions, prototyping, user testing, handoffs, and more.  We're going to start using Figma once we reach to the wirefaming phase, but feel free to explore the tool or ask the tutor for tutorials or help using this tool in case you need it. You don't have to create any files on your personal Figma account. All files will be shared inside the WeDevelop's organization.
+We use Figma to manage all our design projects. This means: Design project folders, Mid & High fidelity designs, invitations, collaborative design sessions, prototyping, user testing, handoffs, and more.  We're going to start using Figma once we reach to the wirefaming phase, but feel free to explore the tool or ask the tutor for tutorials or help using this tool in case you need it. You don't have to create any files on your personal Figma account. All files will be shared inside the WeDevelop's organization.
 
 ### Useful links :sparkles:
 
