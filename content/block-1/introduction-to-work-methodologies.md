@@ -1,6 +1,6 @@
 [« Back to Index](../../README.md)
 
-# Block 1: introduction to work-methodologies (1 week)
+# Block 1: introduction to work-methodologies
 
 ## Contents
 
