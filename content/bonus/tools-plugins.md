@@ -2,7 +2,7 @@
 
 # Bonus: Tools & Plugins
 
-## Useful tools 7 extensions
+## Useful tools & extensions
 
 - 
 
