@@ -1,7 +1,6 @@
 [« Back to Index](../../README.md)
 
-# Block 4: Ideation (1 week theory + 2 week practice)
-
+# Block 4: Ideation
 ## Contents
 
 - Ideation basics
