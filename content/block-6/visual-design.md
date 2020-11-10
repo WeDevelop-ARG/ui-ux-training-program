@@ -1,6 +1,6 @@
 [« Back to Index](../../README.md)
 
-# Block 6: Visual Design
+# Block 6: Visual Design :eyes:
 
 ## Contents
 
