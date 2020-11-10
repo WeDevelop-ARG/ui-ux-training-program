@@ -1,6 +1,6 @@
 [« Back to Index](../../README.md)
 
-# Block 4: Ideation
+# Block 4: Ideation :bulb:
 ## Contents
 
 - Ideation basics
