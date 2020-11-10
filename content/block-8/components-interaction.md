@@ -1,6 +1,6 @@
 [« Back to Index](../../README.md)
 
-# Block 8: Components & interaction
+# Block 8: Components & interaction :point_down:
 
 ## Contents
 
