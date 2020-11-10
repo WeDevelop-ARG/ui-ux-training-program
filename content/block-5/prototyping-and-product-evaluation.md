@@ -1,6 +1,6 @@
 [« Back to Index](../../README.md)
 
-# Block 5: Prototyping and product evaluation (1 week theory + 2 weeks practice)
+# Block 5: Prototyping and product evaluation
 
 ## Contents
 
