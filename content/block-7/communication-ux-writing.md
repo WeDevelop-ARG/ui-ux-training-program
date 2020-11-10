@@ -4,6 +4,11 @@
 
 ## Contents
 
+- What is UX writing?
+- Why and how to apply it
+- Principles & good practices
+- Examples and use cases
+
 
 ## Resources
 
