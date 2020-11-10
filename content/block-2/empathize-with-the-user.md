@@ -33,7 +33,6 @@
 - The UX of Among Us: The importance of colorblind-friendly design https://uxdesign.cc/the-importance-of-colorblind-friendly-design-case-study-among-us-dcd042c87b9 (article)
 - An accessible process for inclusive design - Google I/O https://www.youtube.com/watch?v=TAzkrXTGEOM (video)
 - Creating an Accessible Digital Future - Judy Brewer - TEDxMIT https://www.youtube.com/watch?v=Wb2X9kYEvXc (video)
-- Product accesibility guidelines: http://accessibility.voxmedia.com/#designers (ckecklist + reference)
 
 
 ### Research
@@ -128,9 +127,10 @@ Don't forget to ask any question you have. Also, contact Agos to get in touch wi
 
 ### Bonus
 
-These are some resources I consider very good ones for you to read. I'm leaving the links I have here, or you can search them on the web.
+These are some resources I consider very good ones for you to dive in. I'm leaving the links I have here, or you can search them on the web.
 
 - Inclusive design principles & resources by Microsoft: https://www.microsoft.com/design/inclusive/
+- Product accesibility guidelines: http://accessibility.voxmedia.com/#designers (ckecklist + reference)
 - The emotional design manifesto https://uxdesign.cc/the-emotional-design-manifesto-7cfdbd2d55e9
 - Interviewing Users - Rosenfeld https://drive.google.com/open?id=1qJyyG7g3h0Esrb6Tqc8xfFTZhUFJPpbF
 - Practical design discovery https://drive.google.com/open?id=13NnMk8jfitZGV904e2T7_SGBlPlc6ttG
