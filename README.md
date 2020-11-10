@@ -30,6 +30,8 @@ The second part of each block is practical, so you'll have to apply the learned 
 
 We suggest a duration for each block but take your time. It's better to take longer and really learn and apply the concepts rather than moving on with vague ideas about section's topics.
 
+Here's the learning path. As you can see, you will find a Bonus block with some tools I found really useful to work on a daily basis, and also a Roadmap with all the activities we're going to perform during this training program.
+
 ### Content :books:
 
 - [Block 0: Tools & Useful Links](/content/block-0/useful-links.md)
