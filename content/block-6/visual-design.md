@@ -4,7 +4,7 @@
 
 ## Contents
 
-- 
+- affordance, color, inspiration techniques, moodboards, etc
 
 ## Resources
 
