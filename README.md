@@ -42,5 +42,6 @@ We suggest a duration for each block but take your time. It's better to take lon
 - [Block 7: Communication & UX writing](/content/block-7/communication-ux-writing.md)
 - [Block 8: Components & interaction](/content/block-8/components-interaction.md)
 - [Bonus: Useful tools & plugins](/content/bonus/tools-plugins.md)
+- [Activities Roadmap](/content/roadmap/activities-roadmap.md)
 
 ### And remember: Iterate, iterate, iterate!
