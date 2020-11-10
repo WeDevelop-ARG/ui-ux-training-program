@@ -8,7 +8,7 @@
 
 ## Resources
 
--Inclusive Components: A pattern library in the form of a blog, with a focus on inclusive design. Each post explores a common interface component and comes up with a better, more robust and accessible version of it.
+- [Inclusive Components:](https://inclusive-components.design/) A pattern library in the form of a blog, with a focus on inclusive design. Each post explores a common interface component and comes up with a better, more robust and accessible version of it.
 
 
 
