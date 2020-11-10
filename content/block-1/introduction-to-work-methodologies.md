@@ -1,6 +1,6 @@
 [« Back to Index](../../README.md)
 
-# Block 1: introduction to work-methodologies
+# Block 1: introduction to work-methodologies :briefcase:
 
 ## Contents
 
