@@ -5,6 +5,7 @@
 ## Contents
 
 - Generate empathy with my target audience
+- Accesibility 101
 - Research
 - Research techniques
 - Process and analyze the information obtained
@@ -22,6 +23,11 @@
 - How to develop empathy https://www.interaction-design.org/literature/article/how-to-develop-an-empathic-approach-in-design-thinking (article)
 
 - Improve your designs developing empathy https://www.interaction-design.org/literature/article/empathy-how-to-improve-your-designs-by-developing-empathy-for-your-target-group (article)
+
+
+### Accesibility basics
+
+- Designing for accessibility is not that hard: https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94 (article)
 
 
 
