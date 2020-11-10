@@ -1,6 +1,6 @@
 [« Back to Index](../../README.md)
 
-# Block 2: Empathize with the user (1 week theory + 1 to 2 weeks practice)
+# Block 2: Empathize with the user
 
 ## Contents
 
