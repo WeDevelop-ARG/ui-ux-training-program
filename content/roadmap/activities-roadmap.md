@@ -1,6 +1,6 @@
 [« Back to Index](../../README.md)
 
-# Activities Roadmap
+# Activities Roadmap :checkered_flag:
 
 ### Block 1
 
