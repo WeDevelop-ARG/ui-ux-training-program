@@ -27,8 +27,11 @@
 
 ### Accesibility basics
 
+- Intro to accesibility: https://blog.prototypr.io/intro-to-accessibility-e3d375ff73aa (article)
 - Designing for accessibility is not that hard: https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94 (article)
-
+- 6 steps to make sure the website you’re designing is accessibility compliant: https://uxdesign.cc/6-easy-steps-to-make-sure-the-website-youre-designing-is-accessibility-compliant-58c3df45450a (article)
+- The UX of Among Us: The importance of colorblind-friendly design (https://uxdesign.cc/the-importance-of-colorblind-friendly-design-case-study-among-us-dcd042c87b9) (article)
+- Product accesibility guidelines: http://accessibility.voxmedia.com/#designers (ckecklist + reference)
 
 
 ### Research
@@ -123,11 +126,10 @@ Don't forget to ask any question you have. Also, contact Agos to get in touch wi
 
 ### Bonus
 
-These are some books & articles I consider very good ones for you to read. I'm leaving the links I have here, or you can search them on the web.
+These are some resources I consider very good ones for you to read. I'm leaving the links I have here, or you can search them on the web.
 
+- Inclusive design principles & resources by Microsoft: https://www.microsoft.com/design/inclusive/
 - The emotional design manifesto https://uxdesign.cc/the-emotional-design-manifesto-7cfdbd2d55e9
-- The art of empathy - Karla McLaren
-- Emotional Design - Donald Norman 
 - Interviewing Users - Rosenfeld https://drive.google.com/open?id=1qJyyG7g3h0Esrb6Tqc8xfFTZhUFJPpbF
 - Practical design discovery https://drive.google.com/open?id=13NnMk8jfitZGV904e2T7_SGBlPlc6ttG
 - Just enough research https://drive.google.com/open?id=1O1ugm_2Z_cW35xRTyTUVe-gw-ziRknZI
