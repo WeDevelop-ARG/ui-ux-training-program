@@ -25,7 +25,7 @@
 - Improve your designs developing empathy https://www.interaction-design.org/literature/article/empathy-how-to-improve-your-designs-by-developing-empathy-for-your-target-group (article)
 
 
-### Accesibility basics
+### Accesibility 101
 
 - Intro to accesibility: https://blog.prototypr.io/intro-to-accessibility-e3d375ff73aa (article)
 - Designing for accessibility is not that hard: https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94 (article)
