@@ -1,6 +1,6 @@
 [« Back to Index](../../README.md)
 
-# Block 3: Problem definition (1 week theory + 1 to 2 weeks practice)
+# Block 3: Problem definition
 
 ## Contents
 
