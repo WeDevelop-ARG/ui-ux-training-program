@@ -1,10 +1,15 @@
 [« Back to Index](../../README.md)
 
-# Block 7: Communication & UX Writing
+# Block 7: Communication & UX Writing :pencil2:
 
 ## Contents
 
 - 
+Comunicacion, UX writing
+Quizás dentro de comunicacion se puede hacer foco en Feedback y tipos de feedback dentro de las interfaces: Modals, Tiras / banners, Popover, Text on screen, Validaciones, etc.
+Cuando usar cada una? Por que?
+
+Cuales son mejores para desktop? Cuales para mobile? Por que?
 
 ## Resources
 
