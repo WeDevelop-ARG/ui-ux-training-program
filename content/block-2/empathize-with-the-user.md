@@ -31,6 +31,7 @@
 - Designing for accessibility is not that hard: https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94 (article)
 - 6 steps to make sure the website you’re designing is accessibility compliant: https://uxdesign.cc/6-easy-steps-to-make-sure-the-website-youre-designing-is-accessibility-compliant-58c3df45450a (article)
 - The UX of Among Us: The importance of colorblind-friendly design https://uxdesign.cc/the-importance-of-colorblind-friendly-design-case-study-among-us-dcd042c87b9 (article)
+- An accessible process for inclusive design - Google I/O https://www.youtube.com/watch?v=TAzkrXTGEOM (video)
 - Creating an Accessible Digital Future - Judy Brewer - TEDxMIT https://www.youtube.com/watch?v=Wb2X9kYEvXc (video)
 - Product accesibility guidelines: http://accessibility.voxmedia.com/#designers (ckecklist + reference)
 
