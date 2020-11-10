@@ -1,6 +1,6 @@
 [« Back to Index](../../README.md)
 
-# Block 5: Prototyping and product evaluation
+# Block 5: Prototyping and product evaluation :pencil:
 
 ## Contents
 
