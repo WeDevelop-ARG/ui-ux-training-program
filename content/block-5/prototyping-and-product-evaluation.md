@@ -8,6 +8,7 @@
 - Getting started with Figma. Prototyping options.
 - User testing. Remote user testing.
 - Gathering feedback
+- Usability metrics
 - Implementation phase. How to move from prototype to product?
 
 ## Resources
@@ -51,6 +52,10 @@
 - Presenting Low-Fidelity Prototypes to Stakeholders:https://www.nngroup.com/videos/low-fi-prototypes-stakeholders/ (video)
 - Test Your Prototypes: How to Gather Feedback and Maximise Learning: https://www.interaction-design.org/literature/article/test-your-prototypes-how-to-gather-feedback-and-maximise-learning (article)
 - How to Get More Honest Feedback in User Testing: https://www.interaction-design.org/literature/article/how-to-get-more-honest-feedback-in-user-testing (article)
+
+### Usability Metrics
+- Usability Metrics: https://www.nngroup.com/articles/usability-metrics/ (article)
+- Usability Metrics – A Guide To Quantify The Usability Of Any System: https://usabilitygeek.com/usability-metrics-a-guide-to-quantify-system-usability/ (article)
 
 
 ### Implementation phase
