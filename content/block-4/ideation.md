@@ -53,9 +53,10 @@ Note: You can check more ideation techniques in the IDEO design toolkit: https:/
 - Sketching for UX: https://uxdesign.cc/pens-process-product-sketching-for-ux-1b4992c47565 (article)
 
 
-### Selecting ideas
+### Selecting & prioritizing ideas
 
 - How to Select the Best Idea by the end of an Ideation Session: https://www.interaction-design.org/literature/article/how-to-select-the-best-idea-by-the-end-of-an-ideation-session (article)
+- Using Prioritization Matrices to Inform UX Decisions: https://www.nngroup.com/articles/prioritization-matrices/ (article)
 
 
 ### MVP
