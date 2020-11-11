@@ -6,7 +6,7 @@
 - Ideation basics
 - Most used techniques
 - Sketching
-- Selecting ideas
+- Selecting & prioritizing ideas
 - Introducton to MVP
 
 
