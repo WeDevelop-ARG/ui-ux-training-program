@@ -127,7 +127,7 @@ Don't forget to ask any question you have. Also, contact Agos to get in touch wi
 
 ### Bonus
 
-These are some resources I consider very good ones for you to dive in. I'm leaving the links I have here, or you can search them on the web.
+These are some resources I consider very good ones for you to dive in.
 
 - Inclusive design principles & resources by Microsoft: https://www.microsoft.com/design/inclusive/
 - Product accesibility guidelines: http://accessibility.voxmedia.com/#designers (ckecklist + reference)
