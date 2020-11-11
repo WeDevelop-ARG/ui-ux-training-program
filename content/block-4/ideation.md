@@ -7,6 +7,7 @@
 - Most used techniques
 - Sketching
 - Selecting ideas
+- Introducton to MVP
 
 
 ## Resources
@@ -55,6 +56,12 @@ Note: You can check more ideation techniques in the IDEO design toolkit: https:/
 ### Selecting ideas
 
 - How to Select the Best Idea by the end of an Ideation Session: https://www.interaction-design.org/literature/article/how-to-select-the-best-idea-by-the-end-of-an-ideation-session (article)
+
+
+### MVP
+- What’s not an MVP: https://uxdesign.cc/whats-not-an-mvp-b2658341ceb (article)
+- MVP myths and the one question you should ask (including the MVP recipe):https://uxdesign.cc/mvp-myths-and-the-one-question-you-should-ask-including-the-mvp-recipe-b072485fabc3 (article)
+- The efficient approach: how to design a Lean UX MVP: https://uxdesign.cc/the-efficient-approach-how-to-design-a-lean-ux-mvp-6b28dba5f5de (article)
 
   
 
