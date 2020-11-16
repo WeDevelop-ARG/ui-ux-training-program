@@ -1,12 +1,20 @@
 [« Back to Index](../../README.md)
 
-# Block 6: Visual Design :eyes:
+# Block 6: Visual Design & Compostition :eyes:
 
 ## Contents
 
-- affordance, color, inspiration techniques, moodboards, etc
+- UX Laws
+- Affordance
+- Color
+- inspiration techniques, moodboards, etc
 
 ## Resources
+
+### Composition
+
+- The laws of UX: https://lawsofux.com/
+- 5 Product design psycology principles: https://uxdesign.cc/5-product-design-psychology-principles-d469a02b7c32
 
 
 
