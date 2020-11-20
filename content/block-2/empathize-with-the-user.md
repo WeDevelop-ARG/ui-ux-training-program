@@ -91,7 +91,7 @@
  
  - Open vs Closed card sorting https://www.nngroup.com/videos/open-vs-closed-card-sorting/ (video)
 
-- How to improve usability using card sorting https://uxdesign.cc/using-card-sorting-to-improve-product-usability-6194a2d385ab (article)
+- Beginner's guide smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/ (article)
 
 
 ### Diary studies
