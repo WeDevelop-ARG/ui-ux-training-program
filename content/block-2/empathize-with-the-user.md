@@ -91,7 +91,7 @@
  
  - Open vs Closed card sorting https://www.nngroup.com/videos/open-vs-closed-card-sorting/ (video)
 
-- Beginner's guide smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/ (article)
+- Beginner's guide https://smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/ (article)
 
 
 ### Diary studies
